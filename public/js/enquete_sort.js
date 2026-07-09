@@ -30,7 +30,7 @@ const QUESTION_CONFIG = {
   },
   "今後のキャリア形成において、現在実践している、または今後検討したい働き方はありますか？": {
     sortOrder: null,
-    multipleChoice: false,
+    multipleChoice: true,
   },
   "AIの進歩によってご自身のキャリアが影響を受けている・受けそうだと感じていますか？": {
     sortOrder: ["強く感じている", "まぁ感じている", "わからない", "あまり感じていない", "全く感じない", "回答しない"],
